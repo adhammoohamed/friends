@@ -1,0 +1,12 @@
+style:
+  NewLineAtEndOfFile:
+    active: true
+    excludes: ["**/ui/theme/Color.kt", "**/ui/theme/Theme.kt", "**/ui/theme/Type.kt"]
+
+formatting:
+  NoWildcardImports:
+    active: true
+    excludes: ["**/ui/theme/Color.kt", "**/ui/theme/Theme.kt", "**/ui/theme/Type.kt"]
+  MaximumLineLength:
+    active: true
+    excludes: ["**/ui/theme/Color.kt", "**/ui/theme/Theme.kt", "**/ui/theme/Type.kt"]
